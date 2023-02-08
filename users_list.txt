@@ -1,4 +1,4 @@
 id=997029220 first_name=Семён last_name=Зубов username=None is_bot=False
 id=790878439 first_name=Толя last_name=Гницевич username=toliya56 is_bot=False
 id=1867475463 first_name=Андрей last_name=Кириков username=AndrewKirikov is_bot=False
-id=1867475463 first_name=Андрей last_name=Кириков username=AndrewKirikov is_bot=False
+id=1911792684 first_name=Saveliy last_name=None username=resp_clik is_bot=False

@@ -32,6 +32,6 @@ def if_id_in_file(id):
         file = f.readlines()
         for string in file:
             strok = string.replace('\n', '').split()
-            if strok[0] == str(id):
+            if strok[0][3:] == str(id):
                 return False
         return True
