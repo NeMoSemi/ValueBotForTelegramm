@@ -1,13 +1,11 @@
 import pymorphy2
 import telebot
-import requests
 from telebot import types
+from config import token, data
 from file_for_function import if_id_in_file, is_spam
 
 
-token = '6029918707:AAEJvhZoUkXXbhSquqyNcC27pggBZH4ckMU'
 bot = telebot.TeleBot(token)
-data = requests.get('https://www.cbr-xml-daily.ru/daily_json.js').json()
 all_valute = {'доллар': 'USD',
               'евро': 'EUR',
               'фунты': 'GBP',
