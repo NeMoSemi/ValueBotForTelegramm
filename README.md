@@ -1,5 +1,5 @@
 <p align="center"><img src="https://ae04.alicdn.com/kf/HTB1dM3GXFY7gK0jSZKzq6yikpXaF.jpg" height="500"/></p>
-<h1 align="center">ConverterBot for Telegram</h1>
+<h1 align="center">ConverterBot for Telegram @ConverterNSbot</h1>
 <h3 align="center">made by <a href="https://github.com/NeMoSemi" target="_blank">Nemo_Semi</a></h3>
 <a>
 <p>Описание проекта:</p>
